@@ -1,5 +1,7 @@
 # Signal-Processing-FFT
 
+This is a python script I wrote in a Computational Physics course.
+
 The project demsonstrates the generation, analysis, and comparison of square waves using both time-domain and frequency-domain techniques. Here are the key objectives:
 
 Generate Square Waves: Create two different square waves, one with fixed harmonics and another with random phase shifts.
